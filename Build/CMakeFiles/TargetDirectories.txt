@@ -1,0 +1,10 @@
+D:/Work/bc/batleC/Build/CMakeFiles/PROJECT_NAME.dir
+D:/Work/bc/batleC/Build/CMakeFiles/INSTALL.dir
+D:/Work/bc/batleC/Build/CMakeFiles/ALL_BUILD.dir
+D:/Work/bc/batleC/Build/CMakeFiles/ZERO_CHECK.dir
+D:/Work/bc/batleC/Build/external/glfw/CMakeFiles/uninstall.dir
+D:/Work/bc/batleC/Build/external/glfw/CMakeFiles/INSTALL.dir
+D:/Work/bc/batleC/Build/external/glfw/CMakeFiles/ALL_BUILD.dir
+D:/Work/bc/batleC/Build/external/glfw/src/CMakeFiles/glfw.dir
+D:/Work/bc/batleC/Build/external/glfw/src/CMakeFiles/update_mappings.dir
+D:/Work/bc/batleC/Build/external/glfw/src/CMakeFiles/INSTALL.dir
